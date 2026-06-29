@@ -76,7 +76,6 @@ GrantPubTracker/
 ├── 02_extract_affiliations.py
 ├── 03_format_citations.py
 ├── .env.example
-├── requirements.txt
 ├── README.md
 └── LICENSE
 ```
