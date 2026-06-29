@@ -18,7 +18,7 @@ Although originally developed to support a large NIH-funded research center, the
 
 ## Why I Built This
 
-One of the administrative responsibilities of many NIH-funded centers is documenting publications that benefited from grant-supported resources. Our center supported investigators across multiple departments and collaborating institutions, making publication tracking increasingly difficult as the number of supported researchers grew.
+One of the administrative responsibilities of many NIH-funded centers is documenting publications that benefited from grant-supported resources. Our center supported investigators across multiple departments making publication tracking increasingly difficult as the number of supported researchers grew.
 
 Searching PubMed individually for every investigator often produced ambiguous results. Author names are not unique, affiliations change over time, and duplicate publications frequently appeared across multiple searches.
 
@@ -100,12 +100,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/<your-username>/GrantPubTracker.git
 cd GrantPubTracker
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
 ```
 
 Copy the example configuration:
